@@ -15,8 +15,8 @@ I'm a student at Vignan University. Currently working on some side projects, and
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Kali%20Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Kali%20Linux-informational?style=flat&logo=kalilinux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chundururamrohit1&layout=compact&bg_color=22272E&text_color=8A919A&title_color=69A5F7)](https://github.com/chundururamrohit1)
