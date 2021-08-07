@@ -10,7 +10,7 @@ I'm a student at Vignan University. Currently working on some side projects, and
 
 
 ## 🔧 Tools & Technologies I Use
-![](https://img.shields.io/badge/code-c-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
