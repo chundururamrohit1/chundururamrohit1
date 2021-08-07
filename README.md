@@ -23,7 +23,7 @@ I'm a student at Vignan University. Currently working on some side projects, and
 ## 🗂️ Recent Projects
 ####
 <a href="https://github.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chundururamrohit1&repo=Fylo-LandingPage&show_icons=true&line_height=50&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact" alt="Fylo-LandingPage" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chundururamrohit1&repo=ChitChat&show_icons=true&line_height=50&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact" alt="Fylo-LandingPage" />
 </a>
 
 <a href="https://github.com/">
@@ -34,6 +34,8 @@ I'm a student at Vignan University. Currently working on some side projects, and
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chundururamrohit1&repo=Sort-Recycle-System&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact" alt="Sort-Recycle-System" /> 
 </a>
 
+###
+![CHUNDURU RAMROHIT GitHub stats](https://github-readme-stats.vercel.app/api?username=chundururamrohit1&count_private=true&show_icons=true&hide=stars&bg_color=22272E&icon_color=69A5F7&text_color=8A919A&title_color=69A5F7)
 
 
 <!--
