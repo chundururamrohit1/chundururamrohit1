@@ -4,7 +4,7 @@
 I'm a student at Vignan University. Currently working on some side projects, and learning more about front-end , back-end development and App developement. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/)!
 
 #### More About Me
-- 📚 Final year **Electronics and Communications Engineering** student at Vignan University
+- 📚 Final year ** " Electronics and Communications Engineering " ** student at Vignan University
 - ⚙️ Currently learning **Javascript** 
 - 🏗️ Looking to collaborate on more **Open Source** projects
 
