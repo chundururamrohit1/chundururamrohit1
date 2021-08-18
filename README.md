@@ -1,4 +1,4 @@
-# Hello, I'm CHUNDURU RAMROHIT 👋 <br />[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https:/www.linkedin.com/in/chundururamrohit1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chundururamrohit1@gmail.com)](mailto:chundururamrohit1@gmail.com)
+# Hello, I'm CHUNDURU RAMROHIT 👋 <br />[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/chundururamrohit1)](https:/www.linkedin.com/in/chundururamrohit1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chundururamrohit1@gmail.com)](mailto:chundururamrohit1@gmail.com)
 
 ### Welcome to my profile! 
 I'm a student at Vignan University. Currently working on some side projects, and learning more about front-end , back-end development and App developement. Thanks for visiting and I'd love to [connect](www.linkedin.com/in/chundururamrohit1)!
